@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Kumar Mahto
 =========================================================================================================================================
 
@@ -7,6 +6,8 @@ A passionate frontend developer from India
 ------------------------------------------
 
 I'm a passionate MERN Stack Developer with a strong foundation in MongoDB, Express.js, React.js, and Node.js. I specialize in building dynamic, responsive, and user-friendly web applications that solve real-world problems.
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://luxury-starlight-4bb5d1.netlify.app/)
@@ -36,8 +37,6 @@ src="https://img.shields.io/twitter/follow/Vinaypa41960874?logo=twitter&style=fo
 
 <a href="http://www.github.com/Vinay980"><img src="https://github-readme-stats.vercel.app/api?username=Vinay980&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="Vinay980's GitHub stats" /></a>
 
-
-
-<a href="http://www.github.com/Vinay980"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vinay980&bg_color=171717&color=ffffff&line=ffffff&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a align="right" href="http://www.github.com/Vinay980"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay980&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Vinay980" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay980&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
