@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/Vinaypa41960874?logo=twitter&style=fo
 
 <a href="http://www.github.com/Vinay980"><img src="https://github-readme-stats.vercel.app/api?username=Vinay980&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="Vinay980's GitHub stats" /></a>
 
-<a href="http://www.github.com/Vinay980"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay980&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <a href="http://www.github.com/Vinay980"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vinay980&bg_color=171717&color=ffffff&line=ffffff&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
