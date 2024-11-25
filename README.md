@@ -1,12 +1,19 @@
 ## Hi there 👋
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Kumar Mahto
 =========================================================================================================================================
 
 A passionate frontend developer from India
 ------------------------------------------
 
+
+
+
 I'm a passionate MERN Stack Developer with a strong foundation in MongoDB, Express.js, React.js, and Node.js. I specialize in building dynamic, responsive, and user-friendly web applications that solve real-world problems.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay980&label=Profile%20views&color=0e75b6&style=flat" alt="vinay980" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 * 🌍  I'm based in India
@@ -18,6 +25,11 @@ I'm a passionate MERN Stack Developer with a strong foundation in MongoDB, Expre
 src="https://img.shields.io/github/followers/Vinay980?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a><a href="https://www.x.com/Vinaypa41960874" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Vinaypa41960874?logo=twitter&style=for-the-badge&color=ffffff&labelColor=171717"
 /></a>
+
+
+
+
+
 
 ### Skills
 
