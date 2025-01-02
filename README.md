@@ -49,6 +49,6 @@ src="https://img.shields.io/twitter/follow/Vinaypa41960874?logo=twitter&style=fo
 
 <a href="http://www.github.com/Vinay980"><img src="https://github-readme-stats.vercel.app/api?username=Vinay980&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="Vinay980's GitHub stats" /></a>
 
-<a align="right" href="http://www.github.com/Vinay980"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay980&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <a href="https://github.com/Vinay980" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay980&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
