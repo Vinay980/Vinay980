@@ -17,9 +17,9 @@ I'm a passionate MERN Stack Developer with a strong foundation in MongoDB, Expre
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](https://vinaykumarmahto-portfolio.netlify.app/)
-* ✉️  You can contact me at [E-Mail](mailto:vinay00mahto@gmail.com)
-* 🧠  I'm learning MongoDB,Express.js,React.js,Node.js
+* 🖥️  See my portfolio at [MyPortfolio](https://vinaykumarmahto.netlify.app/)
+* ✉️  You can contact me at [E-Mail](mailto:vinay01mahto@gmail.com)
+* 🧠  I'm learning MongoDB,Express.js,React.js,Node.js,Next.js,Nest.js
 
 <a href="https://www.github.com/Vinay980" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vinay980?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a><a href="https://www.x.com/Vinaypa41960874" target="_blank" rel="noreferrer"><img
