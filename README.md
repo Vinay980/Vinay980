@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:vinay01mahto@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/vinay980">LinkedIn</a> • 
-  <a href="https://vinaykumarmahto.netlify.app/">Portfolio</a>
+  <a href="https://vinaykumarmahto.vercel.app/">Portfolio</a>
 </p>
 
 ---
